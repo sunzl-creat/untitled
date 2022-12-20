@@ -4,5 +4,7 @@ public class Demo {
         System.out.println("Hello world!");
         System.out.println("version1");
 
+        System.out.println("Hello world!");
+        System.out.println("version2");
     }
 }
